@@ -17,14 +17,20 @@ JWT_SECRET=...
 NODE_ENV=...
 ```
 
-### Build the app
+### Install dependencies
 
 ```shell
-npm run build
+npm i
+```
+
+### Start the server
+
+```shell
+npm run server
 ```
 
 ### Start the app
 
 ```shell
-npm start
+npm run dev
 ```
